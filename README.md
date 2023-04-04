@@ -17,6 +17,6 @@ Nous constatons que le taux de clics du groupe test est légèrement plus élev�
 
 ## Recommandation
 
-Sur la base de ces résultats, nous recommandons que l'entreprise utilise la nouvelle page du produit pour la campagne publicitaire future. Cependant, nous suggérons également de continuer à surveiller les taux de clics et les comportements des utilisateurs pour ajuster la stratégie de la campagne publicitaire en conséquence.
+Sur la base de ces résultats, nous recommandons que l'entreprise utilise la nouvelle page du produit pour la campagne publicitaire future. Nous suggérons également de continuer à surveiller les taux de clics et les comportements des utilisateurs pour ajuster la stratégie de la campagne publicitaire en conséquence.
 
 Voir le tableau de bord AB test ici : https://public.tableau.com/app/profile/oy4372/viz/RsulatABTest/RsultatABTest
