@@ -1,4 +1,4 @@
-# AB-Test
+# AB-Test 
 
 Pour une entreprise de commerce en ligne, nous avons lancé une campagne publicitaire pour un nouveau produit. L'objectif de la campagne est d'augmenter le taux de clics des utilisateurs sur la page du produit. Pour évaluer l'efficacité de la campagne publicitaire, nous avons divisé les utilisateurs en deux groupes : un groupe de contrôle et un groupe de test. Le groupe de contrôle a été exposé à l'ancienne page du produit, tandis que le groupe de test a été exposé à la nouvelle page du produit.
 
